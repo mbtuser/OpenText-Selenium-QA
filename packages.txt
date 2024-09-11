@@ -1,1 +1,1 @@
-samples.testng
+com.ot.automation.tests
